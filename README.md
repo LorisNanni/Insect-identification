@@ -28,4 +28,9 @@ for i=1:size(TE,2)%for all the features
 end
 
 
-the fusion among the different classifiers is very simple, we sum the scores. 
+
+
+
+
+
+Notice that: the fusion among the different classifiers is very simple, we sum the scores. 
