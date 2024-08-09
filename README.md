@@ -1,18 +1,18 @@
 # Insect-identification
 Insect identification by combining different neural networks
 
+a) the data.mat can be downloaded here https://dataworks.indianapolis.iu.edu/handle/11243/41
 
-
-a) the code of the method TranConc of the paper is TransformersPytorch.rar, inside the .rar there is the related README
-
-
-
-b) the code of the IGTD/DeepINS/Wave is available at https://github.com/LorisNanni/Vector-to-matrix-representation-for-CNN-networks-for-classifying-astronomical-data
+b) the code of the method TranConc of the paper is TransformersPytorch.rar, inside the .rar there is the related README
 
 
 
+c) the code of the IGTD/DeepINS/Wave is available at https://github.com/LorisNanni/Vector-to-matrix-representation-for-CNN-networks-for-classifying-astronomical-data
 
-c) the code of SVM is available at https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+
+
+
+d) the code of SVM is available at https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 before training SVM we have normalized features to [0,1] in the following way:
 %normalization between [0,1]
 
